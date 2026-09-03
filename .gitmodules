@@ -1,0 +1,15 @@
+[submodule "doxygen"]
+	path = doxygen
+	url = https://github.com/Embedbits/Artifact-doxygen.git
+[submodule "gcc"]
+	path = gcc
+	url = https://github.com/Embedbits/Artifact-gcc.git
+[submodule "gcc_arm_none_eabi"]
+	path = gcc_arm_none_eabi
+	url = https://github.com/Embedbits/Artifact-gcc_arm_none_eabi.git
+[submodule "graphviz"]
+	path = graphviz
+	url = https://github.com/Embedbits/Artifact-graphviz.git
+[submodule "ninja"]
+	path = ninja
+	url = https://github.com/Embedbits/Artifact-ninja.git
