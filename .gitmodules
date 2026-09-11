@@ -13,3 +13,6 @@
 [submodule "ninja"]
 	path = ninja
 	url = https://github.com/Embedbits/Artifact-ninja.git
+[submodule "probe_rs"]
+	path = probe_rs
+	url = https://github.com/Embedbits/Artifact-probe_rs.git
