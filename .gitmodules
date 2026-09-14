@@ -16,3 +16,9 @@
 [submodule "probe_rs"]
 	path = probe_rs
 	url = https://github.com/Embedbits/Artifact-probe_rs.git
+[submodule "python"]
+	path = python
+	url = https://github.com/Embedbits/Artifact-python.git
+[submodule "u8g2"]
+	path = u8g2
+	url = https://github.com/Embedbits/Artifact-u8g2.git
